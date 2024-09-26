@@ -14,6 +14,8 @@ Terdapat beberapa contoh dari *good visualization* dan *bad visualization* berda
 ### Contoh 1
 ![bubble-chart - VDI](https://github.com/user-attachments/assets/5b84d0f3-04a2-443b-92bb-9dcf74422146)
 
+*Sumber: https://www.visualcapitalist.com/the-50-most-visited-websites-in-the-world/*
+
 
 Visualisasi di atas menampilkan top 50 websites yang paling banyak dikunjungi pada November 2020. Visualisasi tersebut dapat dikatakan baik karena memiliki keempat key priciples, berikut penjelasannya:
 
@@ -24,6 +26,9 @@ Visualisasi di atas menampilkan top 50 websites yang paling banyak dikunjungi pa
 
 ### Contoh 2
 ![Top-10-Largest-Nuclear-Explosions](https://github.com/user-attachments/assets/43dc6f31-f80e-4922-b2e8-cbff556262a7)
+
+*Sumber: https://www.visualcapitalist.com/largest-nuclear-explosions/*
+
 
 Visualisasi di atas menampilkan Top 10 Largest Nuclear Explosions. Visualisasi tersebut dikategorikan sebagai good visualization karena mencakup 4 key priciples, berikut penjelasannya:
 
@@ -38,6 +43,9 @@ Visualisasi di atas menampilkan Top 10 Largest Nuclear Explosions. Visualisasi t
 ### Contoh 1
 ![image](https://github.com/user-attachments/assets/7a85f750-5eb0-439c-8ce0-c9d2d056eb03)
 
+*Sumber: https://www.reddit.com/r/dataisugly/comments/13l7hin/hockey_where_the_scales_are_made_up_and_the/*
+
+
 Visualisasi di atas menunjukkan jumlah gol per game dalam pertandingan sepak bola di NFL. Visualisasi data tersebut dikatakan bad karena tidak memenuhi beberapa key priciples, seperti penjelasan berikut:
 
 1. ***Strive for Forms and Functions***: Masalah skala bar yang tidak proporsional menyebabkan fungsi dari visualisasi ini menjadi kurang optimal. Perbedaan kecil pada tinggi batang, seperti dari 6.0 ke 5.8 yang tampaknya terlalu kecil dibandingkan perbedaan dari 6.0 ke 6.2, menciptakan kesan yang salah pada audiens. Ini menyebabkan visualisasi kehilangan fungsinya dalam memberikan gambaran yang akurat tentang data.
@@ -47,6 +55,9 @@ Visualisasi di atas menunjukkan jumlah gol per game dalam pertandingan sepak bol
 ### Contoh 2
 ![ini fix bad](https://github.com/user-attachments/assets/9d18c830-d703-4d61-8831-8820f5d90760)
 
+*Sumber: https://www.reddit.com/r/dataisugly/comments/1cjd1ox/local_airport_data/*
+
+
 Visualisasi diatas menunjukkan peningkatan jumlah penumpang yang berangkat(outbound passenger traffic) pada april 2024 dan april 2019. Visualisasi tersebut dikatakan bad karena tidak memenuhi keempat key priciples, berikut penjelasannya:
 
 1. ***Strive for Forms and Functions***: Visualisasi ini menggunakan diagram donat (doughnut chart) untuk membandingkan data antara tahun 2019 dan 2024. Namun, diagram donat bukanlah pilihan ideal untuk perbandingan seperti ini karena bagian-bagian dari diagram sulit untuk dibandingkan dengan jelas, terutama ketika nilai-nilainya dekat.
@@ -54,3 +65,4 @@ Visualisasi diatas menunjukkan peningkatan jumlah penumpang yang berangkat(outbo
 3. ***Creating Accessibility Through Intuitive Design***: Desain tidak intuitif. Penggunaan diagram donat membuat proporsi antar kategori sulit dibaca dan diinterpretasikan dengan mudah. Selain itu, warna yang dipilih (ungu, hitam, hijau) meskipun kontras, tidak memberikan representasi yang mudah dimengerti tanpa perlu melihat legendanya secara teliti. Serta, angka-angka di tengah donat tidak cukup membantu karena tidak ada penjelasan apa arti warna setiap bagian.
 4. ***Never Deceive the Receiver***: Meskipun data di sini mungkin benar, visualisasi ini dapat menyesatkan pembaca karena perbedaan antara tahun 2019 dan 2024 tidak terlihat jelas pada diagram donat. Pembaca bisa salah menginterpretasikan bahwa tidak ada perubahan signifikan, padahal pesan utamanya adalah adanya peningkatan 17% pada tahun 2024.
 
+---
